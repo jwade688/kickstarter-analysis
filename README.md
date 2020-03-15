@@ -5,4 +5,4 @@ Using the attached raw data from different kickstarter campaigns, I created and 
 * What months have the most successful campaigns 
 * How a campaign goal affects its rate of success
 
-Also attached is a .doc file with my conclusions, limitations, and suggestions for additional visualizations.
+Also attached is a .pdf file with my conclusions, limitations, and suggestions for additional visualizations.
